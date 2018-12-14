@@ -3,5 +3,5 @@
 {"id":2, "nom":"Ballmer", "prenom": "Steve", "salaire": 3000},
 {"id":3, "nom":"Gates", "prenom": "Bill", "salaire": 5000},
 {"id":4, "nom":"Page", "prenom": "Larry", "salaire": 3000},
-{"id":1, "nom":"Jobs", "prenom": "Steve", "salaire": 5000}
+{"id":"1ddd", "nom":"Jobs", "prenom": "Steve", "salaire": 5000}
 ]
